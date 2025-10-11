@@ -1,7 +1,17 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/30px-Flag_of_Palestine.svg.png" alt="Palestine Flag" height="30" /> <span style="font-size:16px; font-weight:bold; margin-left:8px;">I stand in solidarity with <b>Palestine</b> and support peace, justice, and freedom for all. 🌍✌️</span> </p>
+<!-- 🌸 Rania Slouma – GitHub README -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raniaslouma/Raniaslouma/main/profile.jpg" 
+       alt="Rania Slouma" 
+       width="180" 
+       style="border-radius: 50%; border: 3px solid #ff4b4b; box-shadow: 0px 0px 10px rgba(255,75,75,0.6);" />
+</p>
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/30px-Flag_of_Palestine.svg.png" alt="Palestine Flag" height="30" />
-  <span style="font-size:16px; font-weight:bold; margin-left:8px;">I stand in solidarity with <b>Palestine</b> and support peace, justice, and freedom for all. 🌍✌️</span>
+  <span style="font-size:16px; font-weight:bold; margin-left:8px;">
+    I stand in solidarity with <b>Palestine</b> and support peace, justice, and freedom for all. 🌍✌️
+  </span>
 </p>
 
 ---
@@ -70,15 +80,25 @@ Flutter • Firebase • React • Streamlit • HTML • CSS • JavaScript
 ---
 
 ## 📈 GitHub Stats
-![Rania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raniaslouma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raniaslouma&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raniaslouma&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raniaslouma&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raniaslouma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranya-slouma/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranyaa.slouma@gmail.com)
+<p align="center">
+  <a href="https://github.com/Raniaslouma">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ranya-slouma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ranyaa.slouma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
