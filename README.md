@@ -4,8 +4,9 @@
   <img src="https://raw.githubusercontent.com/Raniaslouma/Raniaslouma/main/profile.jpg"
        alt="Rania Slouma"
        width="180"
-       style="border-radius: 50%; border: 3px solid #ff4b4b; box-shadow: 0px 0px 10px rgba(255,75,75,0.6);" />
+       style="border-radius: 50%; border: 3px solid #ff4b4b; box-shadow: 0 0 10px rgba(255,75,75,0.6);" />
 </p>
+
 
 
 <p align="center">
