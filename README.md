@@ -7,60 +7,64 @@
 
 # 👋 Hi, I'm Rania Slouma
 
-I'm a **Data Science & AI Engineering student**, passionate about **Machine Learning, NLP, and AI projects**.  
-I build **intelligent systems** that help people and businesses.
+I'm a **Data Science and Artificial Intelligence Engineering Student** passionate about **Machine Learning, NLP, and Generative AI**.  
+I design and develop **intelligent systems** that combine data-driven insights with advanced language models to create real-world impact.
 
 ---
 
-## 🎯 About Me
-- 🎓 **Engineering Student** in Data Science
-- 💻 Experienced with **Python, TensorFlow, PyTorch, NLP, LLMs**
-- 🚀 Developing AI-powered systems for education and smart services
-- 🌐 Always learning and exploring new technologies
+## 🎓 Education
+- 🎓 **Engineering in Data Science & AI** – *TEK-UP University* (2024 – Present)
+- 🎓 **Master of Research in Computer Science** – *ISIMS Sfax* (2023 – 2024)
+- 🎓 **Bachelor’s in Big Data and Data Analysis** – *ISIMS Sfax* (2020 – 2023)
 
 ---
 
-## 🛠️ Skills
+## 💼 Professional Experience
 
-### Programming
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/SQL-00758F?logo=MySQL&logoColor=white&style=for-the-badge" height="30" alt="SQL logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git logo" />
+### 🧠 Data & AI Intern – *SmartHotelAdvisor Project* (Zaddem Consulting) | 07/2025 – Present
+- Built a **hotel management platform** powered by an **LLM-based RAG chatbot**
+- Integrated **real-time analytics dashboards** and **automated data pipelines**
+- Used **Docker Compose** for containerized microservices deployment
 
-### Data Science
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="Pandas logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="Numpy logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30" alt="Matplotlib logo" />
-
-### AI / Machine Learning
-<img src="https://img.shields.io/badge/BERT-FF6F61?logo=transformers&logoColor=white&style=for-the-badge" height="30" alt="BERT logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/LLaMA-FF9900?logo=python&logoColor=white&style=for-the-badge" height="30" alt="LLaMA logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/NLP-4B0082?logo=python&logoColor=white&style=for-the-badge" height="30" alt="NLP logo" />
-
-### Web Development
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="HTML logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="React logo" /> <img width="12" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="30" alt="Streamlit logo" />
+### 💡 Flutter Developer – *Customer Loyalty Application (FIDNES)* | 02/2025 – 05/2025
+- Created a **multi-feature customer loyalty app** with **Flutter & Firebase**
+- Integrated **loyalty card management, product tracking, and notifications**
+- Used **Firebase Auth**, **Firestore**, and **real-time data synchronization**
 
 ---
 
-## 📂 Projects
-### 1️⃣ Fake News Detection System
-- Used **BERT** for classifying FAKE/REAL news
-- Integrated **LLaMA** for automated explanations
-- Built **interactive educational interface** for students
+## 🚀 Projects
 
-### 2️⃣ Smart Hotel Assistant
-- **Chatbot** for hotel recommendations
-- **Admin dashboard** for booking analytics
-- Personalized recommendations based on budget and preferences
+### 🧩 FactCheck – Educational Misinformation Detection System
+- Combines **BERT** for fake news detection with **LLaMA** for explanation generation  
+- Built **interactive learning modules** to train students’ critical thinking  
+- Integrated **quizzes**, **fact-checking guides**, and **NLP-based analysis**  
+🔗 [View Project](https://github.com/Raniaslouma/Chatbot_FactCheck_Project)
 
-### 3️⃣ LouerDehors Platform (Concept)
-- Web/Mobile platform to **rent outdoor spaces for events**
-- Centralizes services: catering, music, decor, photography
-- Focused on **user trust and smooth experience**
+### 🏨 SmartHotelAdvisor – AI Hotel Assistant
+- Developed a **chatbot using LLM-RAG architecture** for personalized hotel recommendations  
+- Designed an **admin dashboard** with analytics: occupancy rate, booking trends, client profiles  
+- Focused on **containerization and automation** with Docker Compose  
+
+### 🧬 MedExplain-Onco – Brain Cancer AI Assistant *(In Progress)*
+- AI-driven system combining **CNN-based MRI analysis** and **NLP medical reporting**  
+- Generates **diagnostic explanations** and **treatment guidance** using generative AI  
+
+---
+
+## 🧠 Skills
+
+### 🤖 Artificial Intelligence & Machine Learning
+BERT • LLaMA • RAG • Transformers • CNN • Generative AI • NLP • Agentic AI • TensorFlow • PyTorch  
+
+### 📊 Data Science & Analytics
+Python • R • SQL • Pandas • NumPy • Scikit-learn • Big Data Analytics  
+
+### 🗄️ Databases
+PostgreSQL • MySQL • MongoDB  
+
+### 💻 Web & App Development
+Flutter • Firebase • React • Streamlit • HTML • CSS • JavaScript  
 
 ---
 
@@ -75,7 +79,6 @@ I build **intelligent systems** that help people and businesses.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranya-slouma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranyaa.slouma@gmail.com)
 
-
 ---
-> 💡 This GitHub Page is designed to showcase my projects, skills, and professional journey.  
-> Check out my live website at [Raniaslouma.github.io](https://Raniaslouma.github.io)
+
+> 💡 *This GitHub Page showcases my projects, technical growth, and AI journey — from NLP research to smart systems integration.*
