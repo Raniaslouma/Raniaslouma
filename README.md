@@ -1,101 +1,104 @@
-<!-- 🌸 Rania Slouma – GitHub README -->
-
-
+<!-- 🌸 Rania Slouma – Professional GitHub Profile -->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/30px-Flag_of_Palestine.svg.png" alt="Palestine Flag" height="30" />
-  <span style="font-size:16px; font-weight:bold; margin-left:8px;">
-    I stand in solidarity with <b>Palestine</b> and support peace, justice, and freedom for all. 🌍✌️
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/30px-Flag_of_Palestine.svg.png" alt="Palestine Flag" height="28" />
+  <span style="font-size:16px; font-weight:600; margin-left:6px;">
+    I stand in solidarity with <b>Palestine</b> and advocate for peace, justice, and human dignity. 🌍✌️
   </span>
 </p>
 
+---
+
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff4b4b;">Rania Slouma</span></h1>
+
+<p align="center">
+  <em>Data Science & Artificial Intelligence Engineering Student | Machine Learning • NLP • Generative AI</em>
+</p>
 
 ---
 
-# 👋 Hi, I'm Rania Slouma
-
-I'm a **Data Science and Artificial Intelligence Engineering Student** passionate about **Machine Learning, NLP, and Generative AI**.  
-I design and develop **intelligent systems** that combine data-driven insights with advanced language models to create real-world impact.
+### 💡 About Me  
+Driven by curiosity and creativity, I’m passionate about building **intelligent, human-centered AI systems** that empower people and organizations.  
+My journey blends **Data Science**, **Natural Language Processing**, and **Generative AI** to solve real-world challenges through innovation and precision.
 
 ---
 
-## 🎓 Education
-- 🎓 **Engineering in Data Science & AI** – *TEK-UP University* (2024 – Present)
-- 🎓 **Master of Research in Computer Science** – *ISIMS Sfax* (2023 – 2024)
+## 🎓 Education  
+- 🎓 **Engineering in Data Science & AI** – *TEK-UP University* (2024 – Present)  
+- 🎓 **Master of Research in Computer Science** – *ISIMS Sfax* (2023 – 2024)  
 - 🎓 **Bachelor’s in Big Data and Data Analysis** – *ISIMS Sfax* (2020 – 2023)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience  
 
-### 🧠 Data & AI Intern – *SmartHotelAdvisor Project* (Zaddem Consulting) | 07/2025 – Present
-- Built a **hotel management platform** powered by an **LLM-based RAG chatbot**
-- Integrated **real-time analytics dashboards** and **automated data pipelines**
-- Used **Docker Compose** for containerized microservices deployment
+### 🧠 **Data & AI Intern — SmartHotelAdvisor Project** *(Zaddem Consulting)* | 07/2025 – Present  
+- Developed a **smart hotel management system** powered by an **LLM-based RAG chatbot**  
+- Built **real-time dashboards** and **automated web data pipelines**  
+- Deployed scalable **microservices** with Docker Compose  
 
-### 💡 Flutter Developer – *Customer Loyalty Application (FIDNES)* | 02/2025 – 05/2025
-- Created a **multi-feature customer loyalty app** with **Flutter & Firebase**
-- Integrated **loyalty card management, product tracking, and notifications**
-- Used **Firebase Auth**, **Firestore**, and **real-time data synchronization**
-
----
-
-## 🚀 Projects
-
-### 🧩 FactCheck – Educational Misinformation Detection System
-- Combines **BERT** for fake news detection with **LLaMA** for explanation generation  
-- Built **interactive learning modules** to train students’ critical thinking  
-- Integrated **quizzes**, **fact-checking guides**, and **NLP-based analysis**  
-🔗 [View Project](https://github.com/Raniaslouma/Chatbot_FactCheck_Project)
-
-### 🏨 SmartHotelAdvisor – AI Hotel Assistant
-- Developed a **chatbot using LLM-RAG architecture** for personalized hotel recommendations  
-- Designed an **admin dashboard** with analytics: occupancy rate, booking trends, client profiles  
-- Focused on **containerization and automation** with Docker Compose  
-
-### 🧬 MedExplain-Onco – Brain Cancer AI Assistant *(In Progress)*
-- AI-driven system combining **CNN-based MRI analysis** and **NLP medical reporting**  
-- Generates **diagnostic explanations** and **treatment guidance** using generative AI  
+### 💡 **Flutter Developer — Customer Loyalty App** *(FIDNES)* | 02/2025 – 05/2025  
+- Designed a **cross-platform loyalty app** using **Flutter & Firebase**  
+- Implemented **loyalty programs, product tracking,** and **push notifications**  
+- Integrated full **Firebase stack** (Auth, Firestore, Realtime DB, Notifications)
 
 ---
 
-## 🧠 Skills
+## 🚀 Featured Projects  
 
-### 🤖 Artificial Intelligence & Machine Learning
-BERT • LLaMA • RAG • Transformers • CNN • Generative AI • NLP • Agentic AI • TensorFlow • PyTorch  
-
-### 📊 Data Science & Analytics
-Python • R • SQL • Pandas • NumPy • Scikit-learn • Big Data Analytics  
-
-### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB  
-
-### 💻 Web & App Development
-Flutter • Firebase • React • Streamlit • HTML • CSS • JavaScript  
+### 🧩 **FactCheck — Educational Misinformation Detection System**  
+> An NLP + LLM hybrid system to detect fake news and teach media literacy.  
+> 🧠 Powered by **BERT**, **LLaMA**, and interactive educational modules with quizzes and explanations.  
+🔗 [Explore Project](https://github.com/Raniaslouma/Chatbot_FactCheck_Project)
 
 ---
 
-## 📈 GitHub Stats
+### 🏨 **SmartHotelAdvisor — AI Hotel Assistant**  
+> A next-gen hospitality system featuring an **AI chatbot**, **real-time analytics dashboard**,  
+> and automated management tools powered by **Dockerized microservices**.
+
+---
+
+### 🧬 **MedExplain-Onco — Brain Cancer AI Assistant (In Progress)**  
+> Combines **CNN-based MRI analysis** with **NLP-generated medical reports**  
+> to support diagnosis, explain results, and enhance doctor-patient communication.
+
+---
+
+## 🧠 Core Skills  
+
+| **Domain** | **Technologies** |
+|-------------|------------------|
+| 🤖 **AI & Machine Learning** | BERT · LLaMA · Transformers · RAG · CNN · TensorFlow · PyTorch · NLP · Agentic AI |
+| 📊 **Data Science & Analytics** | Python · R · Pandas · NumPy · Scikit-learn · Big Data Analytics |
+| 🗄️ **Databases** | PostgreSQL · MySQL · MongoDB |
+| 💻 **Web & App Development** | Flutter · Firebase · React · Streamlit · HTML · CSS · JavaScript |
+
+---
+
+## 📈 GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raniaslouma&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raniaslouma&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raniaslouma&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raniaslouma&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect  
 <p align="center">
-  <a href="https://github.com/Raniaslouma">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Raniaslouma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ranya-slouma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ranya-slouma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ranyaa.slouma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ranyaa.slouma@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> 💡 *This GitHub Page showcases my projects, technical growth, and AI journey — from NLP research to smart systems integration.*
+<p align="center">
+  <em>✨ Building the future of AI, one model at a time. ✨</em>
+</p>
