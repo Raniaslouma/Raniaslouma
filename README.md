@@ -1,9 +1,9 @@
 <!-- 🌸 Rania Slouma – GitHub README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raniaslouma/Raniaslouma/main/profile.jpg" 
-       alt="Rania Slouma" 
-       width="180" 
+  <img src="https://raw.githubusercontent.com/Raniaslouma/Raniaslouma/main/profile.jpg"
+       alt="Rania Slouma"
+       width="180"
        style="border-radius: 50%; border: 3px solid #ff4b4b; box-shadow: 0px 0px 10px rgba(255,75,75,0.6);" />
 </p>
 
@@ -13,6 +13,7 @@
     I stand in solidarity with <b>Palestine</b> and support peace, justice, and freedom for all. 🌍✌️
   </span>
 </p>
+
 
 ---
 
