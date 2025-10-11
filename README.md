@@ -1,4 +1,11 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Raniaslouma/Raniaslouma/main/profile.jpg" 
+       alt="Rania Slouma" 
+       width="180" 
+       style="border-radius: 50%; border: 3px solid #ff4b4b;" />
+</p>
+
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/30px-Flag_of_Palestine.svg.png" alt="Palestine Flag" height="30" />
   <span style="font-size:16px; font-weight:bold; margin-left:8px;">I stand in solidarity with <b>Palestine</b> and support peace, justice, and freedom for all. 🌍✌️</span>
 </p>
