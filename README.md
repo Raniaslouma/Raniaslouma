@@ -12,65 +12,67 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#ff4b4b;">Rania Slouma</span></h1>
 
 <p align="center">
-  <em>Data Science & Artificial Intelligence Engineering Student | Machine Learning • NLP • Deep Learning</em>
+  <em>Data Science & Artificial Intelligence Engineering Student</em><br>
+  <em>Machine Learning • NLP • Deep Learning • Computer Vision</em>
 </p>
 
 ---
 
 ### 💡 About Me  
-I am a Data Science and AI engineering student with strong interest in Machine Learning, NLP, Generative AI, and Computer Vision. I focus on building intelligent, human-centered AI systems applied to fields such as healthcare, education, and smart services. My work involves developing robust ML pipelines, designing LLM-based applications, and implementing scalable architectures.
+I am a Data Science and AI engineering student with hands-on experience in Machine Learning, NLP, LLMs, and Computer Vision. Throughout my academic and internship journey, I have developed intelligent systems for hotel management, misinformation detection, and medical assistance. I am passionate about building AI solutions that are practical, impactful, and centered around real-world needs.
 
 ---
 
 ## 🎓 Education  
-- 🎓 **Engineering in Data Science & AI** – *TEK-UP University* (2024 – Present)  
-- 🎓 **Master of Research in Computer Science** – *ISIMS Sfax* (2023 – 2024)  
-- 🎓 **Bachelor’s in Big Data and Data Analysis** – *ISIMS Sfax* (2020 – 2023)
+- 🎓 **Engineering in Data Science & Artificial Intelligence** – TEK-UP University (2024 – Present)  
+- 🎓 **Master of Research in Computer Science** – ISIMS Sfax (2023 – 2024)  
+- 🎓 **Bachelor’s in Big Data and Data Analysis** – ISIMS Sfax (2020 – 2023)
 
 ---
 
 ## 💼 Professional Experience  
 
 ### 🧠 **Data & AI Intern — SmartHotelAdvisor Project** *(Zaddem Consulting)* | 07/2025 – Present  
-- Developed an intelligent hotel management system powered by an **LLM + RAG assistant**.  
-- Built a real-time analytics dashboard to support operational decision-making.  
-- Designed and deployed a modular microservices architecture using Docker.  
+- Developed an intelligent hotel management system with an **LLM- and RAG-based assistant** for reservations, support, and complaints.  
+- Built a **real-time analytics dashboard** for hotel operations.  
+- Designed a **modular and scalable microservices architecture** using Docker.  
 
 ### 💡 **Mobile Development Intern — Customer Loyalty App** *(FIDNES)* | 02/2025 – 05/2025  
-- Developed a **Flutter & Firebase mobile application** for loyalty card and promotion management.  
-- Integrated push notifications, geolocation and user feedback modules.  
-- Implemented full Firebase stack: Auth, Firestore, Realtime Database, Cloud Messaging.
+- Built a **Flutter & Firebase mobile application** for loyalty card, promotions, and partner store geolocation.  
+- Integrated **push notifications** and user feedback features, increasing engagement by 40%.  
+- Implemented the full Firebase suite: Auth, Firestore, Realtime Database, Messaging.
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🧩 **FactCheck — Educational Misinformation Detection System**  
-> A hybrid NLP and LLM-based system combining **BERT** and **LLaMA** to detect misinformation and enhance media literacy through interactive educational modules.  
+> NLP & LLM-based platform designed to detect fake news and improve students' critical thinking.  
+> Powered by **BERT** (97% accuracy) and **LLaMA** for explanation generation, with interactive quizzes and learning modules.  
 🔗 [Explore Project](https://github.com/Raniaslouma/Chatbot_FactCheck_Project)
 
 ---
 
 ### 🏨 **SmartHotelAdvisor — AI Hotel Assistant**  
-> AI-powered hospitality assistant integrating an LLM chatbot, real-time analytics dashboard,  
-> and dockerized microservices for automated hotel management.
+> Intelligent hospitality assistant integrating an LLM chatbot, real-time dashboard,  
+> and automated management tools using Dockerized microservices.
 
 ---
 
-### 🧬 **MedExplain-Onco — Brain Cancer AI Assistant (In Progress)**  
-> Combines **CNN-based MRI analysis** with **NLP-generated reports**  
-> to support diagnosis and improve communication between doctors and patients.
-
+### 🧬 **HopeBrain – AI Assistant for Brain Cancer** *(In Progress)*  
+> Empathetic AI assistant combining **NLP, LLMs, and Deep Learning** for analyzing symptoms and MRI scans  
+> to generate accessible, patient-friendly medical guidance and reports.
+🔗 [Explore Project](https://github.com/Raniaslouma/HopeBrain)
 ---
 
 ## 🧠 Core Skills  
 
 | **Domain** | **Technologies** |
 |-------------|------------------|
-| 🤖 **AI & Machine Learning** | BERT · LLaMA · Transformers · RAG · CNN · TensorFlow · PyTorch · NLP · Generative AI |
-| 📊 **Data Science & Analytics** | Python · R · Pandas · NumPy · Scikit-learn · Big Data Analytics |
+| 🤖 **AI & Machine Learning** | LLMs · BERT · LLaMA · Transformers · RAG · NLP · CNN · VGG16 · ResNet · GANs |
+| 📊 **Data Science & Analytics** | Python · R · Pandas · NumPy · Scikit-learn |
 | 🗄️ **Databases** | PostgreSQL · MySQL · MongoDB |
-| 💻 **Web & App Development** | Flutter · Firebase · React · Streamlit · HTML · CSS · JavaScript |
+| 💻 **Dev & Tools** | Git · Docker · FastAPI · Streamlit · MLOps · Web Scraping |
 
 ---
 
@@ -98,5 +100,5 @@ I am a Data Science and AI engineering student with strong interest in Machine L
 ---
 
 <p align="center">
-  <em>Building practical and human-centered AI solutions.</em>
+  <em>Building AI systems that are impactful, reliable, and human-centered.</em>
 </p>
