@@ -1,104 +1,81 @@
-<!-- 🌸 Rania Slouma – Professional GitHub Profile -->
+# Rania Slouma
 
+**Data Science & Artificial Intelligence Engineering Student**  
+Machine Learning • NLP • Generative AI • Computer Vision
+
+---
+
+## 🧩 About Me
+I am a Data Science and AI engineering student specializing in Machine Learning, NLP, and Generative AI. My work focuses on building intelligent, user-centered systems applied to healthcare, education, and smart services. I enjoy solving real-world problems through innovative and scalable AI solutions.
+
+---
+
+## 🎓 Education
+- **Engineering in Data Science & Artificial Intelligence** – TEK-UP University (2024 – Present)  
+- **Master of Research in Computer Science** – ISIMS Sfax (2023 – 2024)  
+- **Bachelor’s in Big Data & Data Analysis** – ISIMS Sfax (2020 – 2023)
+
+---
+
+## 💼 Professional Experience
+
+### **Data & AI Intern — SmartHotelAdvisor**  
+**Zaddem Consulting** (07/2025 – Present)  
+- Developed an intelligent hotel management system powered by an LLM + RAG assistant.  
+- Built a real-time analytics dashboard for operational insights.  
+- Designed and deployed a modular microservices architecture using Docker.
+
+### **Mobile Development Intern — Loyalty Application**  
+**FIDNES** (02/2025 – 05/2025)  
+- Developed a cross-platform mobile application using Flutter & Firebase.  
+- Implemented loyalty card management, promotion tracking, and geolocation features.  
+- Integrated Firebase services: Authentication, Firestore, Realtime Database, Messaging.
+
+---
+
+## 🚀 Projects
+
+### **FactCheck — Educational Misinformation Detection System**  
+A hybrid NLP and LLM system combining BERT and LLaMA to detect misinformation and provide educational explanations and quizzes.  
+🔗 Repository: [FactCheck Project](https://github.com/Raniaslouma/Chatbot_FactCheck_Project)
+
+### **SmartHotelAdvisor — AI Assistant for Hospitality**  
+AI-powered hotel assistance system including an LLM chatbot, analytics dashboard, and dockerized microservices.
+
+### **MedExplain-Onco — Brain Cancer AI Assistant (In Progress)**  
+Combines CNN-based MRI analysis with NLP-generated medical reports to support diagnosis and improve patient communication.
+
+---
+
+## 🧠 Technical Skills
+
+### Artificial Intelligence & ML  
+BERT · LLaMA · Transformers · RAG · NLP · CNN · Computer Vision · Generative AI · Prompt Engineering
+
+### Frameworks & Libraries  
+TensorFlow · PyTorch · Hugging Face · LangChain · Scikit-learn · Pandas · NumPy
+
+### Development & Databases  
+Python · R · SQL · MySQL · PostgreSQL · MongoDB
+
+### Tools  
+Docker · Git · FastAPI · Streamlit · MLOps · Web Scraping
+
+---
+
+## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/30px-Flag_of_Palestine.svg.png" alt="Palestine Flag" height="28" />
-  <span style="font-size:16px; font-weight:600; margin-left:6px;">
-    I stand in solidarity with <b>Palestine</b> and advocate for peace, justice, and human dignity. 🌍✌️
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raniaslouma&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raniaslouma&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff4b4b;">Rania Slouma</span></h1>
-
-<p align="center">
-  <em>Data Science & Artificial Intelligence Engineering Student | Machine Learning • NLP • Generative AI</em>
-</p>
-
----
-
-### 💡 About Me  
-Driven by curiosity and creativity, I’m passionate about building **intelligent, human-centered AI systems** that empower people and organizations.  
-My journey blends **Data Science**, **Natural Language Processing**, and **Generative AI** to solve real-world challenges through innovation and precision.
+## 📫 Contact
+- **GitHub:** [github.com/Raniaslouma](https://github.com/Raniaslouma)  
+- **LinkedIn:** [linkedin.com/in/ranya-slouma](https://www.linkedin.com/in/ranya-slouma/)  
+- **Email:** ranyaa.slouma@gmail.com  
 
 ---
 
-## 🎓 Education  
-- 🎓 **Engineering in Data Science & AI** – *TEK-UP University* (2024 – Present)  
-- 🎓 **Master of Research in Computer Science** – *ISIMS Sfax* (2023 – 2024)  
-- 🎓 **Bachelor’s in Big Data and Data Analysis** – *ISIMS Sfax* (2020 – 2023)
-
----
-
-## 💼 Professional Experience  
-
-### 🧠 **Data & AI Intern — SmartHotelAdvisor Project** *(Zaddem Consulting)* | 07/2025 – Present  
-- Developed a **smart hotel management system** powered by an **LLM-based RAG chatbot**  
-- Built **real-time dashboards** and **automated web data pipelines**  
-- Deployed scalable **microservices** with Docker Compose  
-
-### 💡 **Flutter Developer — Customer Loyalty App** *(FIDNES)* | 02/2025 – 05/2025  
-- Designed a **cross-platform loyalty app** using **Flutter & Firebase**  
-- Implemented **loyalty programs, product tracking,** and **push notifications**  
-- Integrated full **Firebase stack** (Auth, Firestore, Realtime DB, Notifications)
-
----
-
-## 🚀 Featured Projects  
-
-### 🧩 **FactCheck — Educational Misinformation Detection System**  
-> An NLP + LLM hybrid system to detect fake news and teach media literacy.  
-> 🧠 Powered by **BERT**, **LLaMA**, and interactive educational modules with quizzes and explanations.  
-🔗 [Explore Project](https://github.com/Raniaslouma/Chatbot_FactCheck_Project)
-
----
-
-### 🏨 **SmartHotelAdvisor — AI Hotel Assistant**  
-> A next-gen hospitality system featuring an **AI chatbot**, **real-time analytics dashboard**,  
-> and automated management tools powered by **Dockerized microservices**.
-
----
-
-### 🧬 **MedExplain-Onco — Brain Cancer AI Assistant (In Progress)**  
-> Combines **CNN-based MRI analysis** with **NLP-generated medical reports**  
-> to support diagnosis, explain results, and enhance doctor-patient communication.
-
----
-
-## 🧠 Core Skills  
-
-| **Domain** | **Technologies** |
-|-------------|------------------|
-| 🤖 **AI & Machine Learning** | BERT · LLaMA · Transformers · RAG · CNN · TensorFlow · PyTorch · NLP · Agentic AI |
-| 📊 **Data Science & Analytics** | Python · R · Pandas · NumPy · Scikit-learn · Big Data Analytics |
-| 🗄️ **Databases** | PostgreSQL · MySQL · MongoDB |
-| 💻 **Web & App Development** | Flutter · Firebase · React · Streamlit · HTML · CSS · JavaScript |
-
----
-
-## 📈 GitHub Overview  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raniaslouma&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raniaslouma&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 📫 Let's Connect  
-<p align="center">
-  <a href="https://github.com/Raniaslouma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ranya-slouma/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ranyaa.slouma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>✨ Building the future of AI, one model at a time. ✨</em>
-</p>
+_“Building practical, reliable and human-centered AI solutions.”_
